@@ -1,0 +1,10 @@
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Segredos e arquivos locais
+.env
+*.user
